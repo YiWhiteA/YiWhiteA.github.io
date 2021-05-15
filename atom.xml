@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yiwhitea.github.io</id>
     <title>YiWhiteA&apos;s GitHub</title>
-    <updated>2021-05-15T12:50:34.489Z</updated>
+    <updated>2021-05-15T12:54:00.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yiwhitea.github.io"/>
     <link rel="self" href="https://yiwhitea.github.io/atom.xml"/>
@@ -11,15 +11,29 @@
     <icon>https://yiwhitea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YiWhiteA&apos;s GitHub</rights>
     <entry>
+        <title type="html"><![CDATA[《圣经210515》]]></title>
+        <id>https://yiwhitea.github.io/post/lesslesssheng-jing-210515greatergreater/</id>
+        <link href="https://yiwhitea.github.io/post/lesslesssheng-jing-210515greatergreater/">
+        </link>
+        <updated>2021-05-15T12:51:35.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yiwhitea.github.io/post-images/1621083140514.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[对于2021年大连市中考的一些想法]]></title>
         <id>https://yiwhitea.github.io/post/dui-yu-2021-nian-da-lian-shi-zhong-kao-de-yi-xie-xiang-fa/</id>
         <link href="https://yiwhitea.github.io/post/dui-yu-2021-nian-da-lian-shi-zhong-kao-de-yi-xie-xiang-fa/">
         </link>
         <updated>2021-05-15T10:28:04.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="#333333">因大连三年后将参加新中考<br>
+所以从2021年中考开始 难度逐渐降低<br>
+在此对25 26题做一些分析</font></p>
+]]></summary>
         <content type="html"><![CDATA[<p><font color="#333333">因大连三年后将参加新中考<br>
 所以从2021年中考开始 难度逐渐降低<br>
-在此对25 26题做一些分析</font><br>
-————————————————————————————————————————————————————<br>
+在此对25 26题做一些分析</font></p>
+<!-- more -->
+<p>————————————————————————————————————————————————————<br>
 <font color="#333333">25题<br>
 目前的基本思想已经确定</font><br>
 <font color="#333333">（1）导角/导边</font><br>
