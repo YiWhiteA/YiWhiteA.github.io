@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yiwhitea.github.io</id>
     <title>YiWhiteA&apos;s GitHub</title>
-    <updated>2021-04-23T15:20:02.293Z</updated>
+    <updated>2021-05-15T11:45:04.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yiwhitea.github.io"/>
     <link rel="self" href="https://yiwhitea.github.io/atom.xml"/>
@@ -11,15 +11,34 @@
     <icon>https://yiwhitea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YiWhiteA&apos;s GitHub</rights>
     <entry>
-        <title type="html"><![CDATA[对待不公平问题的基本方针]]></title>
-        <id>https://yiwhitea.github.io/post/lesslesschi-zong-zui-greatergreater-yi/</id>
-        <link href="https://yiwhitea.github.io/post/lesslesschi-zong-zui-greatergreater-yi/">
+        <title type="html"><![CDATA[对于2021年大连市中考的一些想法]]></title>
+        <id>https://yiwhitea.github.io/post/dui-yu-2021-nian-da-lian-shi-zhong-kao-de-yi-xie-xiang-fa/</id>
+        <link href="https://yiwhitea.github.io/post/dui-yu-2021-nian-da-lian-shi-zhong-kao-de-yi-xie-xiang-fa/">
         </link>
-        <updated>2021-04-16T13:41:29.000Z</updated>
-        <summary type="html"><![CDATA[<p><font color="#FF0000">“以牙还牙，加倍奉还！”</p>
+        <updated>2021-05-15T10:28:04.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="#333333">因大连三年后将参加新中考<br>
+所以从2021年中考开始 难度逐渐降低<br>
+在此对25 26题做一些分析</font></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><font color="#FF0000">“以牙还牙，加倍奉还！”</p>
+        <content type="html"><![CDATA[<p><font color="#333333">因大连三年后将参加新中考<br>
+所以从2021年中考开始 难度逐渐降低<br>
+在此对25 26题做一些分析</font></p>
 <!-- more -->
+<p><font color="#333333">25题<br>
+目前的基本思想已经确定</font><br>
+<font color="#333333">（1）导角/导边</font><br>
+<font color="#333333">（2）利用</font><font color="#CC6600">“一边一角”</font><font color="#333333">证明两条/三条线段关系</font><br>
+<font color="#333333">（3）利用</font><font color="#CC6600">“梅涅劳斯定理”</font><font color="#333333">证明两条/三条线段关系</font><br>
+<font color="#0000CC">所谓“梅涅劳斯定理”，即</font><font color="#CC6600">一条直线若与某三角形三边都有交点</font><font color="#0000CC">，则“顶交交顶”之间乘积为1</font><br>
+<font color="#333333">基本图如下</font><br>
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://preview.cloud.189.cn/image/imageAction?param=699C0C90FD0C62BD8EE3CFE155881A2EF4ADDF3170CBE9B5E6095E83031981273CA8B200CB59C7B6E374149F16FB434ABD14C860012DF83A3709018CF0BEFB40C2E1F9701278AB7B29BD95E7713E9F4438CB4A11F6C2D9087FA60FE6" width="200" height="180"><font color="#CC6600">(一条直线与某三角形三边都有交点)</font><br>
+注：<font color="#6666FF">蓝色为“顶”，即三角形顶点</font>；<font color="#FF6666">红色为“交”，即直线和三角形交点</font><br>
+<font color="#0000CC">我们连接DC、AF</font><br>
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://preview.cloud.189.cn/image/imageAction?param=C6F061F2A2EAB8A6B6BE7AACB2982048CA00CEB613AA2D9D1B6F0365C37205DB412B4985A80FA5B5D00FA654EF0BC0285792479A613F1239EB6E7499F808B6916A035DC0FF420091E07A3BD40C2052E490D9DD09DF4743E717F87782" width="200" height="180"><br>
+<font color="#333333">则有</font><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://preview.cloud.189.cn/image/imageAction?param=B3B2DD25F42ECDEBA62EB419DDE9ABEB391CAE8C48940044792199A076994132FD9D7214DE072CAFC7688113F06D66E2E86AA0BD504543E5428760B945F6D256FCFEDCD86F588397E1B82B38536CD6C3213C2D5364A7794AC2A78913" width="600" height="540"><br>
+<font color="#333333">运用了“三角形边之比等于面积之比”无须证明<br>
+将①×②×③<br>
+则得出结论：</font><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://preview.cloud.189.cn/image/imageAction?param=9CBE738BD5DB8DE4707000CBC8FC6A385CE5C59BA3511CEA13889A6592777521CA41D832E0CB3F6B1BA2BB95874A51F83CAB71CF5985E46DAC093AF5B5B334B96A98DE535A107E872573AD0C85ED24E6FF2BFAF57AA2CA088AA0025E" width="300" height="270"></p>
 ]]></content>
     </entry>
     <entry>
@@ -32,7 +51,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“三五学生苦食堂久矣”（4.23更新）]]></title>
+        <title type="html"><![CDATA[“三五学生苦食堂久矣”（4.23最终更新，因部分原因停更）]]></title>
         <id>https://yiwhitea.github.io/post/guan-yu-dui-da-lian-shi-di-san-shi-wu-zhong-xue-shi-tang-de-ju-bao-xiang-mu/</id>
         <link href="https://yiwhitea.github.io/post/guan-yu-dui-da-lian-shi-di-san-shi-wu-zhong-xue-shi-tang-de-ju-bao-xiang-mu/">
         </link>
