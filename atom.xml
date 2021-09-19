@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yiwhitea.github.io</id>
     <title>YiWhiteA&apos;s GitHub</title>
-    <updated>2021-07-17T06:11:52.317Z</updated>
+    <updated>2021-09-19T23:52:16.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yiwhitea.github.io"/>
     <link rel="self" href="https://yiwhitea.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://yiwhitea.github.io/images/avatar.png</logo>
     <icon>https://yiwhitea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YiWhiteA&apos;s GitHub</rights>
-    <entry>
-        <title type="html"><![CDATA[今天是6月25日]]></title>
-        <id>https://yiwhitea.github.io/post/jin-tian-shi-6-yue-25-ri/</id>
-        <link href="https://yiwhitea.github.io/post/jin-tian-shi-6-yue-25-ri/">
-        </link>
-        <updated>2021-06-22T12:58:09.000Z</updated>
-        <content type="html"><![CDATA[<p><font size="60" face="禹卫书法行书简体">就是明天！</font></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[好！]]></title>
         <id>https://yiwhitea.github.io/post/lesslesssheng-jing-210515greatergreater/</id>
